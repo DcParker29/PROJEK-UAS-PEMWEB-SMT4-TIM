@@ -1,0 +1,79 @@
+.about-section {
+  background-size: cover;
+  background-position: center;
+  padding: 4rem 3rem;
+  color: white;
+  text-shadow: 0 0 10px rgba(0,0,0,0.7);
+}
+
+.about-content {
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: rgba(0,0,0,0.5);
+  padding: 2rem;
+  border-radius: 0.5rem;
+}
+
+.about-content h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.about-content p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.vision-mission {
+  display: flex;
+  gap: 3rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.vision, .mission {
+  flex: 1 1 300px;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: #222;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+}
+
+.vision h2, .mission h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.vision p, .mission p {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.values-section {
+  background-size: cover;
+  background-position: center;
+  padding: 4rem 3rem;
+  color: white;
+  text-shadow: 0 0 10px rgba(0,0,0,0.7);
+  margin-top: 2rem;
+}
+
+.values-content {
+  max-width: 900px;
+  margin: 0 auto;
+  background-color: rgba(0,0,0,0.6);
+  padding: 2rem;
+  border-radius: 0.5rem;
+  text-align: center;
+}
+
+.values-content h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.values-content p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
